@@ -1,2 +1,2 @@
 # Newsletter
-Dario Alexandre Newsletter on Mailchimp
+ Newsletter on Mailchimp
