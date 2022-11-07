@@ -1,2 +1,2 @@
 # Newsletter
- Newsletter on Mailchimp
+ Newsletter on Mailchimp with Bootstrap
